@@ -1,0 +1,34 @@
+[
+	{
+		"id": 0,
+		"image": "https://github.com/joseenciso/abelpineda/blob/master/media/img/abelpineda-thumbnail.png?raw=true",
+		"title": "Abel Pineda",
+		"description": "Abel Pineda is a profesinoal chef that has achieve various awards throughout his career. Curretly he is starting a new adventure as restaurant consultan.",
+		"github": "https://github.com/joseenciso/abelpineda",
+		"demo": "https://www.abelpinedaconsultant.co.uk/"
+	},
+	{
+		"id": 1,
+		"image": "https://raw.githubusercontent.com/joseenciso/Backpocket/master/media/img/Backpocket-thumbnail.png",
+		"title": "Backpocket",
+		"description": "eCommerce webapp. The projects is developed with Django fo the backend, AWS3 for storing the images of the products and Stripe for the payments.",
+		"github": "https://github.com/joseenciso/Backpocket",
+		"demo": "https://backpocket-store.herokuapp.com/"
+	},
+	{
+		"id": 2,
+		"image": "https://github.com/joseenciso/bottleneck/blob/master/media/img/bottleneck-thumbnail.png?raw=true",
+		"title": "Bottleneck",
+		"description": "Videogames reviews webtsite. In order to create a new post the user would have to registers. This CRUD webapp developed with Python3/Flask allows to create new users and new posts. The post can be read without being registered. The users, images and imformation of the posts are being stored in MongoDB.",
+		"github": "https://github.com/joseenciso/bottleneck",
+		"demo": "https://bottleneck-gaming.herokuapp.com/home?page=1"
+	},
+	{
+		"id": 3,
+		"image": "https://github.com/joseenciso/Live-Band/blob/master/media/img/Live-Band-thumbnail.png?raw=true",
+		"title": "Live-Band",
+		"description":"Live-Band is webapp where to find your favourites band's concert.",
+		"github": "https://github.com/joseenciso/Live-Band",
+		"demo": "https://joseenciso.github.io/Live-Band/"
+	}
+]
